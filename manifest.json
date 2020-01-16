@@ -1,0 +1,17 @@
+{
+    "name" : "Adn's Football App",
+    "short_name" : "Adn's Football PWA",
+    "description" : "Aplikasi PWA Football",
+    "start_url" : "/index.html",
+    "display" : "standalone",
+    "gcm_sender_id": "947552353485",
+    "background_color" : "#ce93d8",
+    "theme_color" : "#ce93d8",
+    "icons" : [
+        {
+            "src" : "icon.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+}
