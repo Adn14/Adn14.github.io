@@ -9,6 +9,7 @@
   <li>Push notification</li>
   <li>User can save their favorite team into cache</li>
   <li>Data from https://www.football-data.org/</li>
+  <li>Can be accesed online: https://adn14.github.io/</li>
 <ul>
   </h4>
 <h3>  
