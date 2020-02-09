@@ -20,6 +20,6 @@ Stack:
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>ServiceBox</li>
+  <li>Workbox</li>
 <ul>
   </h4>
